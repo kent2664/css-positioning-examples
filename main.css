@@ -157,9 +157,9 @@ main div {
 }
 
 .back-to-top {
-    position: sticky;
+    position: fixed;
     top: 550px;
-    left: 950px;
+    left: 90%;
     font-size: 48px;
     font-weight: bold;
     background-color: #3af0cb;
